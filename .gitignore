@@ -155,3 +155,4 @@ cython_debug/
 bin/
 include/
 pyvenv.cfg
+share/
